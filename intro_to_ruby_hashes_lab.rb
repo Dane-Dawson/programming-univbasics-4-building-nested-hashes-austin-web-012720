@@ -1,8 +1,6 @@
 def base_hash
   dr_who_info ={
-    :doctors => {},
-    :assistants => {},
-    :villians => {}
+    :doctors => {}
   }
 	dr_who_info
 end
