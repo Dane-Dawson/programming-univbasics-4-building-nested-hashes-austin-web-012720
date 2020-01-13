@@ -1,8 +1,8 @@
 def base_hash
-  dr_who_info ={
+  monopoly ={
     :railroads => {}
   }
-	dr_who_info
+	monopoly
 end
 
 def monopoly_with_second_tier
