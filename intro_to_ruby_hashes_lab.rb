@@ -1,6 +1,6 @@
 def base_hash
   dr_who_info ={
-    :doctors => {}
+    :railroads => {}
   }
 	dr_who_info
 end
